@@ -1,6 +1,6 @@
 #Movie Database data
 
-Filmdata i JSON-format från IMDb. Det finns sex oilka JSON-filer i [json-foldern](https://github.com/attilac/movie-json-data/tree/master/json). Allt som allt är det cirka 500 titlar. Enjoy!
+Filmdata i JSON-format från IMDb. Det finns sex oilka JSON-filer i [json-foldern](https://github.com/FEND16/movie-json-data/tree/master/json). Allt som allt är det cirka 500 titlar. Enjoy!
 
 ###Data
 
@@ -14,7 +14,7 @@ Filmdata i JSON-format från IMDb. Det finns sex oilka JSON-filer i [json-folder
 |  top-rated-indian-movies-02.json |                                                                                     |
 
 ###Bilder  
-Propertyn "poster" innehåller filnamnet på en bild som återfinns i [img-foldern](https://github.com/attilac/movie-json-data/tree/master/img).
+Propertyn "poster" innehåller filnamnet på en bild som återfinns i [img-foldern](https://github.com/FEND16/movie-json-data/tree/master/img).
 Om man vill länka till en extern bild istället finns det en länk i propertyn "posterurl".
 
 ### Struktur på JSON datan
