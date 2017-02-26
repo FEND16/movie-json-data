@@ -1,6 +1,6 @@
 #Movie Database data
 
-Filmdata i JSON-format från IMDb. Det finns sex oilka JSON-filer i json-foldern:
+Filmdata i JSON-format från IMDb. Det finns sex oilka JSON-filer i [json-foldern](https://github.com/attilac/movie-json-data/tree/master/json):
 
 ###Data
 
