@@ -4,15 +4,14 @@ Filmdata i JSON-format från IMDb. Det finns sex oilka JSON-filer i json-foldern
 
 ###Data
 
-| JSON                             | IMDb source                                                                     | 
-| :--------------------------------| :-------------------------------------------------------------------------------|
-|  movies-coming-soon.json         | [movies-coming-soon](http://www.imdb.com/movies-coming-soon/?ref_=nv_mv_cs_4)   | 
-|  movies-in-theaters.json         | [movies-in-theaters](http://www.imdb.com/movies-in-theaters/?ref_=cs_inth)      |  
-|  top-rated-movies-01.json        | [top-rated-movies](http://www.imdb.com/movies-in-theaters/?ref_=cs_inth)        | 
-|  top-rated-movies-02.json        |                                                                                 |
-|  top-rated-movies-01.json        | [top-rated-movies](http://www.imdb.com/movies-in-theaters/?ref_=cs_inth)        | 
-|  top-rated-indian-movies-01.json | [top-rated-indian-movies](http://www.imdb.com/movies-in-theaters/?ref_=cs_inth) |
-|  top-rated-indian-movies-02.json |                                                                                 |
+| JSON                             | IMDb source                                                                         | 
+| :--------------------------------| :-----------------------------------------------------------------------------------|
+|  movies-coming-soon.json         | [imdb](http://www.imdb.com/movies-coming-soon/?ref_=nv_mv_cs_4)                     | 
+|  movies-in-theaters.json         | [imdb](http://www.imdb.com/movies-in-theaters/?ref_=cs_inth)                        |  
+|  top-rated-movies-01.json        | [imdb](http://www.imdb.com/chart/top?ref_=nv_mv_250_6)                              |     
+|  top-rated-movies-02.json        |                                                                                     | 
+|  top-rated-indian-movies-01.json | [imdb](http://www.imdb.com/chart/top-indian-movies?ref_=nv_mv_250_in_7)             | 
+|  top-rated-indian-movies-02.json |                                                                                     |
 
 ###Bilder  
 Propertyn "poster" innehåller filnamnet på en bild som återfinns i img-foldern.
